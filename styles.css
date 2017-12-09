@@ -1,0 +1,75 @@
+body {
+	font-family: ;
+	color: ;
+	margin: ;
+}
+header {
+	text-align: ;
+	background: ;
+	background-size: ;
+	background-attachment: ;
+
+}
+header img {
+	border: ;
+	border-radius: ;
+	padding: ;
+}
+a {
+	color: ;
+}
+h1 {
+	color: ;
+	font-size: ;
+}
+h1, h2 {
+  font-family: ;
+}
+p, ul, ol {
+	line-height: ;
+}
+#about {
+	background: ;
+}
+.links h2 {
+	color: ;
+}
+.stacked {
+	padding: ;
+}
+.contact {
+    text-align: ;
+    color: ;
+    background: ;
+}
+.contact img {
+	width: ;
+	margin: ;
+	border-radius: ;
+	border: ;
+}
+.contact img:hover {
+	opacity: ;
+}
+ul.websites {
+    padding: ;
+}
+
+ul.websites li {
+    list-style: ;
+    display: ;
+    margin-bottom: ;
+}
+.websites a {
+	background: ;
+	padding: ;
+	color: ;
+	text-decoration: ;
+	border-radius: ;
+	font-size: ;
+	display: ;
+}
+
+.websites a:hover {
+	background: ;
+}
